@@ -1,0 +1,10 @@
+BMI Calculator
+⚖️ Body Mass Index (BMI) Calculator
+
+A web application developed using HTML, CSS, and JavaScript to calculate Body Mass Index (BMI) with precision and simplicity. This project provides users with a straightforward interface to input their height and weight, instantly generating their BMI along with corresponding health categories.
+
+🚀 Key Features:
+
+User-friendly Interface: Intuitive design for seamless user experience.
+Real-time Calculation: Instant BMI computation as users input their data.
+Health Categories: Clear categorization based on calculated BMI, offering additional health insights.

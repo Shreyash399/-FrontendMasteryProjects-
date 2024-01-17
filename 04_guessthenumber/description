@@ -1,0 +1,48 @@
+# Guess the Number Game 🎲
+
+Guess the Number Game is a web application that challenges users to guess a randomly generated number within a specified range. The game is built using JavaScript, HTML, and CSS, providing an interactive and engaging user experience.
+
+## Features 🚀
+
+- Randomly generated number for users to guess
+- Responsive interface with interactive elements
+- Feedback on guess correctness and hints for guidance
+
+## How to Play 🔍
+
+1. Open the game in your browser.
+2. Input your guess in the provided field.
+3. Receive feedback on the correctness of your guess.
+4. Continue guessing until you find the correct number.
+
+## Setup Instructions ⚙️
+
+To run Guess the Number locally on your machine, follow these steps:
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/guess-the-number.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd guess-the-number
+    ```
+
+3. Open the `index.html` file in your preferred web browser.
+
+4. Start guessing and enjoy the game!
+
+## Technologies Used 💻
+
+- JavaScript
+- HTML
+- CSS
+
+## Why this Project? 💡
+
+Guess the Number Game is a fun project designed to showcase interactive web development skills. The game offers an entertaining way to practice problem-solving and user interface design.
+
+Challenge yourself and enjoy the guessing game! 🎲✨
